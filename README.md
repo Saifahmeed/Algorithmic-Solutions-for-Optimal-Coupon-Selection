@@ -52,8 +52,8 @@ The solution has practical applications in:
    cd coupon-selection
 3. Compile and run:
    ```bash
-  g++ -o main src/main.cpp
-  ./main
+   g++ -o main src/main.cpp
+   ./main
   
 ## Usage
 1. Load your dataset of coupons.
