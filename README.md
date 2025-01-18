@@ -59,6 +59,3 @@ The solution has practical applications in:
 1. Load your dataset of coupons.
 2. Choose the algorithm to apply based on your preferences and constraints.
 3. View the selected coupons, remaining coupons, and final cost.
-
-## Contribution
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
